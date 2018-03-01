@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Morse Code Tapper</string>
+    <string name="dot">\u00B7</string>
+    <string name="dash">\u2212</string>
+    <string name="counterbore">\u2334</string>
+    <string name="tetraseme">\u23D8</string>
+    <string name="open_box">\u2423</string>
+
+</resources>
